@@ -8,6 +8,22 @@ body {
     height: 400px;
 }
 
+.image:hover{
+    transform: rotateY(150deg);
+    border-radius: 25px;
+    border-width: 10px;
+    border-style: groove;
+    border-color:rgb(238, 9, 238);
+}
+
+
+.links:hover{
+    font-size:larger;
+    font-weight: bolder;
+    font-family:'Courier New', Courier, monospace;
+    color: rgb(238, 9, 238);
+}
+
 .link-button {
     text-decoration: none;
     color: rgb(7, 139, 139);
