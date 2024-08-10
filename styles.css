@@ -37,3 +37,15 @@ body {
     border-radius: 8px;
     box-shadow: 2px 3px #000000;
 }
+title {
+font-family: "Grey Qo", cursive;
+}
+h1{
+    font-family: "Gupter", serif;
+}
+h2{
+    font-family: "Gupter", serif;
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+}
